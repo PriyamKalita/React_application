@@ -1,1 +1,2 @@
 "React Login Authentication with JWT Access, Refresh Tokens, Cookies and Axios"
+Create a login page with username/password fields, form validation, and Axios/Fetch for login requests. Design a user profile page to display/edit details, with data fetched from '/profile'. Integrate with backend using Axios/Fetch, handling JWT tokens for security, and displaying error messages. Ensure responsiveness and basic styling with CSS or a UI library like Material-UI/Bootstrap. Implement user-friendly error messages and loading indicators.
